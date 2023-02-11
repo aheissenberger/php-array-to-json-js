@@ -1,6 +1,6 @@
 {
   "name": "php-array-to-json-js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "main": "./dist/php-array-to-json-js.umd.cjs",
   "module": "./dist/php-array-to-json-js.js",
