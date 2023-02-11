@@ -1,0 +1,5 @@
+// Vitest Snapshot v1
+
+exports[`check php result string syntax > broken syntax throws Error 1`] = `"command exited with code: 255"`;
+
+exports[`check php result string syntax > php not found 1`] = `"Error: spawn phpnotfound ENOENT"`;

@@ -1,0 +1,1 @@
+export { default as phparray2json } from './phparray2json'
