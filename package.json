@@ -12,7 +12,7 @@
     }
   },
   "license": "bsd-2-clause",
-  "description": "Create PHP Array from JSON or Javascript Object Notation Code.",
+  "description": "Convert PHP Array to JSON.",
   "keywords": [
     "php",
     "json",
