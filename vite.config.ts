@@ -7,8 +7,8 @@ export default defineConfig({
     build: {
         lib: {
             entry: resolve(__dirname, 'src/index.ts'),
-            name: 'php-array-from-json-js',
-            fileName: 'php-array-from-json-js',
+            name: 'php-array-to-json-js',
+            fileName: 'php-array-to-json-js',
         },
         rollupOptions: {
             external: [
